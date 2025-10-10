@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/isahlopess?style=social&label=Follow&logo=github)](https://github.com/isahlopess)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/isahlopess)
 [![Email](https://img.shields.io/badge/📧-Contact%20me-green?style=flat)](mailto:isadorafl05@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=ArthurTschinkel&color=blueviolet" alt="Profile views"/>
 
 </div>
 
@@ -67,3 +68,7 @@ const isadora = {
 
 </div>
 
+
+<p align="center">
+<i>💼 Open to new opportunities and collaborations!</i>
+</p>
