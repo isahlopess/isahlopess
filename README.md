@@ -57,17 +57,14 @@ const isadora = {
 <div align="center">
   
 ## 🗓️ My Contributions
-![GitHub Contributions](https://ghchart.rshah.org/isahlopess)
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Disahlopess%26hide_title%3Dfalse%26hide_rank%3Dfalse%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26disable_animations%3Dfalse%26theme%3Ddracula%26locale%3Dpt-br%26hide_border%3Dfalse" height="150" alt="stats graph"  />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Disahlopess%26locale%3Dpt-br%26hide_title%3Dfalse%26layout%3Dcompact%26card_width%3D320%26langs_count%3D5%26theme%3Ddracula%26hide_border%3Dfalse" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-
-| Estatísticas GitHub | Streak de Contribuições |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=isahlopess&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="400"> | <img src="https://streak-stats.demolab.com/?user=isahlopess&theme=radical&hide_border=true" width="400"> |
-
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/isahlopess/isahlopess/output/snake.svg" alt="Snake animation" />
 </div>
-
 
 <p align="center">
 <i>💼 Open to new opportunities and collaborations!</i>
